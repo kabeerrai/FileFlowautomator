@@ -23,7 +23,7 @@ This project demonstrates core **Operating System concepts** such as directory t
 
 | File Type      | Destination Folder |
 | -------------- | ------------------ |
-| `.cpp`, `.c`, '.sh' | `Code/`       |
+| `.cpp`, `.c`, `.sh` | `Code/`       |
 | `.txt`, `.pdf` | `Documents/`       |
 | `.jpg`, `.png` | `Images/`          |
 | Other files    | `Misc/`            |
