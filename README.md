@@ -14,7 +14,7 @@ This project demonstrates core **Operating System concepts** such as directory t
 * 🔁 Continuous directory monitoring
 * 🧹 Zero-byte (empty) file removal
 * 🔐 Permission checking (read/write)
-* 🧾 Logging to both terminal and log file
+* 🧾 Logging to log file
 * ⚙️ Simple Bash-based automation
 
 ---
